@@ -2,7 +2,12 @@
 
 > Enterprise Data Warehouse implementation for an airline reservation system using **IBM DataStage**, **Oracle Database**, and **Kimball Dimensional Modeling**.
 
-![Architecture](images/dimensional_model.png)
+<img width="1536" height="1024" alt="ChatGPT Image Jul 22, 2026, 03_40_26 PM" src="https://github.com/user-attachments/assets/6823c483-ab94-4d3e-9f7b-41d5fb35c59b" />
+
+
+<img width="1920" height="1080" alt="Screenshot (3057)" src="https://github.com/user-attachments/assets/25174add-41db-4c60-b462-fb806f44f757" />
+<img width="1920" height="1080" alt="Screenshot (3060)" src="https://github.com/user-attachments/assets/66a2bcb9-3685-4927-9faf-b9c60f9547cf" />
+<img width="1920" height="1080" alt="Screenshot (3059)" src="https://github.com/user-attachments/assets/5d2038e1-3e7b-4140-83c5-1a948c4c3477" />
 
 ---
 
